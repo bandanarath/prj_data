@@ -1,0 +1,22 @@
+know & care about the analysis plan,otherwise serious trouble
+
+plan for data &code sharing  -- github
+
+large data -->figshare.com
+
+github/jtleek/datasharing
+
+
+
+Experimental design
+
+--> Formulate your question in advance
+
+question - does chnaging the text on your website improve donation
+
+experiment
+
+--> Randomly show visitor one version or the other
+--> measure how much they donate
+--->determine which is better
+

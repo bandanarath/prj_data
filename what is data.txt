@@ -1,0 +1,22 @@
+Data are values of qualitative or quantitative variables , belonging to a set of items
+
+set of items - poluation
+variables - a measurement or characteristics of an item
+
+
+kind of data
+
+--> Audio
+-->video
+--> next gen sequence in text file
+--> api data-structured
+
+--> text file
+
+Most importatant thing in data science
+
+-->Question
+
+second imp thing in data science
+
+-->Data 

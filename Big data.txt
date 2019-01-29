@@ -1,0 +1,5 @@
+much cheap much easier data avilable to analyze
+
+don't use hadoop - ypur data isnt that big
+
+big or small - you need the right data

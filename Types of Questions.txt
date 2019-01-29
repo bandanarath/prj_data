@@ -1,0 +1,44 @@
+DEscriptive Analysis
+--> describe and interpret --> but no decision
+e.g. -->census data
+exploratory analysis
+-->finding co-relation -->but not final say -->not prediction
+
+-->discover new analysis
+
+e.g --> brain analysis
+e.g --> John hokins--> sky data
+
+
+Inference Analysis
+
+---> Small data and apply to larger volume
+---> uncertainty of quantity
+e.g. air polution vs life expectatncy
+
+
+Prediction analysis
+
+x predicts y
+but not x causes y
+
+e,g, polling predict next presidental candidate
+preidct charactersitcs of people
+
+causal analysis
+
+change value of one variable changes the other
+e.g. drug to people might raise life expectatncy
+
+Mechanistic analysis - very rare in data science
+
+exact chnage in one variable chnages exact in other
+
+-->used in engineering
+--?measurement area
+--> chnages in pavement design will lead the function of pavement
+
+
+
+
+
