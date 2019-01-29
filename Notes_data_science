@@ -1,8 +1,72 @@
 R programming Overview
+---> R is free and most widely used programming language in  	data science world.
+
+
 Getting & Cleaning Data Overview
+
+ raw vs tidy
+ Download files
+ Reading data
+ merging
+reshaping
+summerising
+connect to Dbs
+
 Exploratory Analysis
+
+Priciples of Anaylitics Graphs
+Exploratory Graphs
+Plotting System in R
+
+--> Base
+--> Lattic
+--->ggplot2
+
+Hierarical Clustering
+K means Clustering
+Dimension Resduction
+
+
 Reproducible Research
+
+code + docs --> Reproduce all the anaysis
+components of reproducible Researc
+--> Markdown
+-->Latex
+--->R markdown
+Evidence based data analysis
+
 Statistical Ineterference
+
+Basic Probabilty
+common distributions
+confidence intervals
+gypothesis tests
+bootstrapping & Power
+
 Regression Models
+
+Tools performing statistical or data science analysis
+supervised predictive function
+linear regression
+multilple regression
+confounding
+prediction
+Multivariable Regression analysis
+
+
 Machine Learning
+
+Prediction study DEsign--->cross validation
+caret package
+pre processing
+boosting, bagging
+model blending
+forecasting
+
 Building Product Overview
+
+rcharts -- > interactive graphs
+slidify --- interactive apps
+shiny -- build web application for end users
+
